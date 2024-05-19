@@ -3,3 +3,4 @@ feature1
 feature1 again commit
 main master reinitiated
 change only in main
+feature2
